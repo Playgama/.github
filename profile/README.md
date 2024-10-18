@@ -1,5 +1,5 @@
 # Playgama 
-Playgama is a global game distributor that handles all matters related to game placement, moderation, and money transfers from any country.
+Playgama is a global game distributor that handles all matters related to game placement, moderation, and borderless payments.
 
 Our main focus areas: 
 - gaming portal [playgama.com](https://playgama.com);
@@ -10,9 +10,9 @@ Our main focus areas:
 It’s a unified SDK for cross-platform publishing HTML5 games.
 Key features:
 - Save and load player progress
-- Ad monetisation: Banner, Interstitial, Rewarded
+- Ad monetization: Banner, Interstitial, Rewarded
 - In-game purchases
-- Social features (share, invite a friend, add to favourites, etc.)
+- Social features (share, invite a friend, add to favorites, etc.)
 - Leaderboards
 - Language and device information
 - Remote configuration
