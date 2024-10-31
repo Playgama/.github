@@ -16,13 +16,15 @@ Key features:
 - Leaderboards
 - Language and device information
 - Remote configuration
+  
 And more
 
 ## Plugins for game engines
-- [JS](https://github.com/playgama/bridge)
-- [Construct 3](https://github.com/playgama/bridge-construct)
-- [Unity](https://github.com/playgama/bridge-unity)
-- [Godot](https://github.com/playgama/bridge-godot)
++ [JS](https://github.com/playgama/bridge)
++ [Construct 3](https://github.com/playgama/bridge-construct)
++ [Unity](https://github.com/playgama/bridge-unity)
++ [Godot 3](https://github.com/playgama/bridge-godot)
++ [Godot 4](https://github.com/playgama/bridge-godot-4)
 
 ## Useful links
 - [Documentation](https://wiki.playgama.com/)
