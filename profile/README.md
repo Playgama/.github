@@ -5,6 +5,7 @@ Our main focus areas:
 - gaming portal [playgama.com](https://playgama.com);
 - helping game developers with distribution, monetization, analytics, and much more;
 - integrating with various platforms to enhance their monetization through games.
+- building a vibrant [Discord community](https://discord.gg/28GGHXFbvD) of HTML5 developers — a space to share experience, get feedback, and grow together.
 
 # Playgama Bridge
 It’s a unified SDK for cross-platform publishing HTML5 games.
