@@ -29,6 +29,7 @@ And more
 + [Game Maker](https://github.com/playgama/bridge-gamemaker)
 + [Defold](https://github.com/playgama/bridge-defold)
 + [GDevelop](https://github.com/playgama/bridge-gdevelop)
++ [Cocos Creator](https://github.com/Playgama/bridge-cocos-creator)
 
 ## Useful links
 - [Documentation](https://wiki.playgama.com/)
